@@ -24,4 +24,4 @@ npm init -y (To create package.json file)
 npm i express (Install express library)
 npm i --save-dev nodemon (To install Nodemon, which restarts node.js automatically when any changes are made)
 
-NOTE: This line runs nodemon: "devStart": "nodemon server.js"
+NOTE: This line in the package.json file runs nodemon: "devStart": "nodemon server.js"
