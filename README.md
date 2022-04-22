@@ -1,8 +1,5 @@
 # Homework-Assignment
-
-This is the homework assignment as part the application for a Junior Full Stack Developer role at DMG Blockchain. 
-
-The project is a full-stack web application that queries for crypto currency prices from external services using Node.js (Express library) and 
+This project is a full-stack web application that queries for crypto currency prices from external services using Node.js (Express library) and 
 exposes a front-end application using React.js.
 
 ## 📋 Table of Contents
@@ -10,6 +7,11 @@ exposes a front-end application using React.js.
 - [Setup](#-setup)
 
 ## 💻 Features
+
+A drop-down list that allows a user to select one of 8 crypto-currencies, with the current value of the crypto-currency
+displayed below in Canadian dollars.
+
+![image](https://user-images.githubusercontent.com/54924158/164591435-05372b6f-46bc-4e05-aafe-274e03d00f87.png)
 
 
 ## 🛠️ Setup
@@ -29,3 +31,5 @@ npm i --save-dev nodemon (To install Nodemon, which restarts node.js automatical
 
 
 NOTE: This line in the package.json file runs nodemon: "devStart": "nodemon server.js"
+
+npm install request (To install request package for parsing JSON from external URL)
