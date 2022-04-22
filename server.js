@@ -27,6 +27,6 @@ app.get("/", function (req, res) {
   // console.log(url);
 });
 
-app.listen(3000);
+app.listen(5000);
 
 //bitcoin,litecoin,ethereum,dogecoin,tether,solana,cardano,avaterra
