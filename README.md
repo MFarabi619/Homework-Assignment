@@ -13,6 +13,7 @@ displayed below in Canadian dollars.
 
 ![image](https://user-images.githubusercontent.com/54924158/164591435-05372b6f-46bc-4e05-aafe-274e03d00f87.png)
 
+The project is a work in progress. The React Front-end is yet to be connected with the Express Back-end.
 
 ## 🛠️ Setup
 
