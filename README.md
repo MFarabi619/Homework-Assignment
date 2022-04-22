@@ -10,6 +10,7 @@ exposes a front-end application using React.js.
 
 A drop-down list that allows a user to select one of 8 crypto-currencies, with the current value of the crypto-currency
 displayed below in Canadian dollars.
+
 ![image](https://user-images.githubusercontent.com/54924158/164591435-05372b6f-46bc-4e05-aafe-274e03d00f87.png)
 
 
