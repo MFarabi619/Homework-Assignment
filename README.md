@@ -29,3 +29,5 @@ npm i --save-dev nodemon (To install Nodemon, which restarts node.js automatical
 
 
 NOTE: This line in the package.json file runs nodemon: "devStart": "nodemon server.js"
+
+npm install request (To install request package for parsing JSON from external URL)
